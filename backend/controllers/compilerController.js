@@ -25,7 +25,7 @@ exports.runCode = async (req, res) => {
                 try {
                     ${code} // User code
                 } catch (e) {
-                    log("Error: " + e.toString()); // Capture errors with the custom log
+                    log("Error: " + e.toString()); 
                 }
             })();
         `;
