@@ -88,6 +88,3 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
 5.  Any output from `console.log` or errors are captured and sent back to the frontend.
 6.  The output is displayed in the panel on the right.
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
